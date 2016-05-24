@@ -1,13 +1,13 @@
 {
   "name": "bx-minify",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "minifies with Google Closure",
   "main": "index.js",
   "scripts": {
     "test": "node index.js"
   },
   "bin": {
-    "browserify": "index.js"
+    "minify": "node index.js"
   },
   "author": "phenyll",
   "license": "MIT",
