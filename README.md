@@ -1,6 +1,8 @@
 # Description
 Uses Google Closure from node-minify to compress mainly .js files.
 
-# Usage
-npm i bx-minify
-node bx-minify/index.js -i [inputfile] -o [outputfilename]
+# Installation
+npm i bx-minify -g
+
+# Usage 
+node bx-minify -i [inputfile] -o [outputfilename]

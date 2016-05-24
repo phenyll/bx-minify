@@ -6,6 +6,9 @@
   "scripts": {
     "test": "node index.js"
   },
+  "bin": {
+    "browserify": "index.js"
+  },
   "author": "phenyll",
   "license": "MIT",
   "dependencies": {
