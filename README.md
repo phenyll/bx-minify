@@ -5,4 +5,7 @@ Uses Google Closure from node-minify to compress mainly .js files.
 npm i bx-minify -g
 
 # Usage 
-node bx-minify -i [inputfile] -o [outputfilename]
+`minify -i [inputfile] -o [outputfilename]`
+or
+`minify [inputfile]`
+which produces [inputfile].min
