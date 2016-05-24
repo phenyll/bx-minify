@@ -1,6 +1,6 @@
 {
   "name": "bx-minify",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "minifies with Google Closure",
   "main": "index.js",
   "scripts": {
